@@ -1,0 +1,6 @@
+framework module Pods_AffirmProject {
+  umbrella header "Pods-AffirmProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
